@@ -1,4 +1,4 @@
-import Navigation from "../components/navigation";
+import Navigation from "../components/Navigation";
 import PostItem from "../components/PostItem";
 import { getSortedPostsData } from "../lib/posts";
 

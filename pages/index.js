@@ -1,4 +1,4 @@
-import Navigation from "../components/navigation";
+import Navigation from "../components/Navigation";
 export default function Home() {
   return (
     <div className="w-[1024px] h-[100vh]  mx-auto">

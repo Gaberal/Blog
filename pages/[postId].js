@@ -1,4 +1,4 @@
-import Navigation from "../components/navigation";
+import Navigation from "../components/Navigation";
 import { getAllPostIds, getPostData } from "../lib/posts";
 // import parse from "html-react-parser";
 
